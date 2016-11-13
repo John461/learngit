@@ -3,6 +3,10 @@
 作者生日
 
 I am a sister
+<<<<<<< HEAD
 
 
-master 分支提交
+我是好学生
+=======
+我是好学生
+>>>>>>> feature1
